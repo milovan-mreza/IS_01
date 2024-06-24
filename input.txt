@@ -1,0 +1,7 @@
+C Sinteza Italija abc123 2023
+E Ekonomija Srbija 123ABC 2021
+C Tehnologija Nemacka tech2022 2022
+E Marketing Francuska 456DEF 2020
+C Informatika Spanija cs2021 2021
+E Finansije Svedska 789GHI 0
+C AI Kina ai123 2020
